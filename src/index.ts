@@ -47,6 +47,6 @@ async function getUser() {
 }
 
 getUser();
-
+getUser();
 
 app.listen(3000)
