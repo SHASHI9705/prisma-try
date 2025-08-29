@@ -1,7 +1,5 @@
 "use client"
-
 import axios from "axios"
-
 export default function Signin() {
     return <div className="w-screen flex justify-center intems-center">
         <div className="border p-2">
